@@ -1,5 +1,11 @@
 # serve
 
+## 14.2.7
+
+### Patch Changes
+
+- 37b3a74: Replace clipboardy with tinyclip
+
 ## 14.2.6
 
 ### Patch Changes
